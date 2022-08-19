@@ -35,7 +35,7 @@ Feel free to check the [issues page](https://github.com/Jhaman1895/Portfolio/iss
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-= Microverse inc.
+- Microverse inc.
 
 ## 📝 License
 
