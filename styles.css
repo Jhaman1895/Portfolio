@@ -61,11 +61,10 @@ html {
   align-items: center;
   padding: 64px 24px;
   gap: 58px;
-  height: 726px;
   top: 92px;
   background-image: url(./assets/images/header-illsutration-mobile.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-position: center;
 }
 
 .hero-title-container {
